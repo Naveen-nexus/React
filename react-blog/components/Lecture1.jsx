@@ -1,5 +1,5 @@
 function Lecture1(){
-    const name= "naveen hero";  //1st way to declare variable
+    const name= "# 1.Basics";  //1st way to declare variable
     const userObj ={           // array as well
         name : "naveen",
         email : "anil@test.com",

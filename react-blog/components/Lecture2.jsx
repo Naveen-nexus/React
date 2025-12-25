@@ -23,7 +23,7 @@ function Lecture2 (){
         alert(name);
     }
     return(<div>
-        <h1>Event and function call</h1>
+        <h1> # 2.Event and function call#</h1>
         <button onClick={showAlert}>Click Me</button>
         <button onClick={fruit}>Fruit Button</button>
         <button onClick={()=>greetUser('Naveen')}>Greet User</button>
